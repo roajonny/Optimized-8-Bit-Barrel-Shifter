@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Engineer: Jonathan Roa
 -- Module Name: Barrel_Shifter - Behavioral
--- Target Devices: Zynq
+-- Target Devices: Zynq Z-7020
 -- Tool Versions: 
 -- Description: Optimized combinational 8-bit barrel shifter utilizing
 -- three levels of multiplexers
